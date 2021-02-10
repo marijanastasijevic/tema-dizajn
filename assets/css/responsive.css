@@ -1,0 +1,11 @@
+/* Za 769 i manje */
+@media screen and (max-width:769px){
+    h1{
+        font-size: 30px !important;
+    }
+    .m-text{
+        font-size: 16px;
+        
+       
+    }
+}
