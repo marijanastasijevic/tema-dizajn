@@ -1,0 +1,65 @@
+@font-face{
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-family: "moj-font-regular";
+}
+@font-face{
+    src: url(../font/LibreBaskerville-Italic.ttf);
+    font-family: "moj-font-italic";
+}
+@font-face{
+    src: url(../font/LibreBaskerville-Bold.ttf);
+    font-family: "moj-font-bold";
+}
+body{
+    font-family: "moj-font-regular" !important;
+}
+.bg-lavanda{
+    height: 35px;
+    background-color: #d2c1b5;
+}
+.logo-center{
+    display: flex;
+    justify-content: center;
+    padding: 10px auto;
+}
+.logo-center img{
+    width: 250px;
+}
+.bg-lavanda-m-nav{
+    background-color: #d2c1b5;
+    text-transform: uppercase;  
+    font-family: "moj-font-bold"; 
+}
+.m-nav-white a{
+    color: #000000;
+}
+.m-nav-white a:hover{
+    color: #523d32;
+}
+
+.transparent{
+    width: 100%;
+    height: 450px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.transparent img{
+    width: inherit;
+    height: inherit;  
+    opacity: 0.8;
+}
+.social-media{
+    text-align: right;
+}
+.social-media a i{
+    color: #000000;
+    font-size: 30px;
+    padding: 10px 15px;  
+}
+.social-media a i:hover{
+    color: #523d32;
+}
+
+
+
+
