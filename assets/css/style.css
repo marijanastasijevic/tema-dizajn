@@ -59,10 +59,9 @@ body{
 .social-media a i:hover{
     color: #523d32;
 }
-.m-about-as{
-    background-color: #ffffff;
-    border: 5px solid #d2c1b5;
-
+.m-about-us{
+    background-color: #f8f4f1;
+    border: 1px solid #d2c1b5;
     position: relative;
     margin-top: -80px;
 }
@@ -76,6 +75,8 @@ h1{
     font-style: italic;
     text-align: justify;  
     font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .word-Tema-Dizajn{
     font-family: "moj-font-italic";

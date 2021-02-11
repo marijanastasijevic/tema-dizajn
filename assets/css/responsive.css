@@ -1,11 +1,62 @@
-/* Za 769 i manje */
+/* ZA 769 I MANJE */
+
 @media screen and (max-width:769px){
     h1{
         font-size: 30px !important;
     }
     .m-text{
         font-size: 16px;
-        
-       
+    }
+    .transparent{
+        height: 350px;
+    }
+    .m-about-us{
+        margin-top: -50px;
+    }
+}
+
+
+
+/* ZA 426 I MANJE */
+
+@media screen and (max-width:426px){
+    .bg-lavanda{
+        height: 20px;
+    }
+    .logo-center img{
+        width: 180px;
+    }
+    .transparent{
+        height: 250px;
+    }
+    h1{
+        font-size: 26px !important;
+    }
+    .m-text{
+        font-size: 14px;
+    }
+    h2{
+        font-size: 24px !important;
+    }
+    .m-about-us{
+        width: 90%;
+    }
+    .word-Tema-Dizajn{
+        font-size: 20px;
+    }
+}
+
+/* ZA 376 I MANJE */
+@media screen and (max-width:346px){
+
+}
+
+/* ZA 321 I MANJE */
+@media screen and (max-width:321px){
+    h1{
+        font-size: 23px !important;
+    }
+    h2{
+        font-size: 20px !important;
     }
 }
