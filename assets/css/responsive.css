@@ -13,6 +13,9 @@
     .m-about-us{
         margin-top: -50px;
     }
+    h3{
+        font-size: 22px !important;
+    }
 }
 
 
@@ -43,6 +46,15 @@
     }
     .word-Tema-Dizajn{
         font-size: 20px;
+    }
+    .m-submit-center{
+        margin-left: 0px
+    }
+    .mobile-block-form{
+        display: block;
+    }
+    .mobile-padding{
+        padding-top: 15px;
     }
 }
 

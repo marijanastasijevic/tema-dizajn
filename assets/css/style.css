@@ -91,7 +91,24 @@ h2{
     color: #d28e5f;
 
 }
-
+#kontakt{
+    background-color: #d2c1b5;
+}
+.m-contact-header{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "moj-font-bold";
+    color: #523d32;
+}
+.text-message{
+    text-align: center;
+}
+.flex-form{
+    display: flex;
+}
+.m-submit-center{
+    margin-left: 25%;
+}
 
 
 
