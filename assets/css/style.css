@@ -46,7 +46,7 @@ body{
 .transparent img{
     width: inherit;
     height: inherit;  
-    opacity: 0.8;
+    opacity: 0.9;
 }
 .social-media{
     text-align: right;
@@ -109,7 +109,22 @@ h2{
 .m-submit-center{
     margin-left: 25%;
 }
-
+#footer{
+    background-color: #523d32
+}
+.list-group-item{
+    background-color: #523d32 !important;
+    color: #f8f4f1;
+    font-size: 16px;
+}
+h4{
+    color: #d28e5f;
+    padding-left: 15px;
+}
+.img-flex{
+    display: flex;
+    justify-content: center;
+}
 
 
 
