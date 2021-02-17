@@ -57,7 +57,7 @@ body{
     padding: 10px 15px;  
 }
 .social-media a i:hover{
-    color: #523d32;
+    color: #f8f4f1;
 }
 .m-about-us{
     background-color: #f8f4f1;
@@ -93,6 +93,7 @@ h2{
 }
 #kontakt{
     background-color: #d2c1b5;
+    border-top: 1px solid #d2c1b5;
 }
 .m-contact-header{
     text-align: center;
@@ -110,7 +111,7 @@ h2{
     margin-left: 25%;
 }
 #footer{
-    background-color: #523d32
+    background-color: #523d32;
 }
 .list-group-item{
     background-color: #523d32 !important;
