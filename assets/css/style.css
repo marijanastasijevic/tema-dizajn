@@ -127,6 +127,36 @@ h6{
     justify-content: center;
 }
 
+/* Lasersko secenje */
+.transparent-image{
+    background-image: url(../img/srce_podmetac.JPG);
+    background-size: cover;
+    width: 100%;  
+    opacity: 0.8;
+    
+}
+.transparent-header{
+    margin-left: 20%;
+    opacity: 0.6;
+    background-color: #ffffff;
+    width: 60%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.transparent-header-color{
+    padding-top: 100px;
+    padding-bottom: 150px;
+    color: #000000;
+    font-family: "moj-font-bold";
+    text-transform: uppercase;
+}
+
+
+
+
+
+/* End lasersko secenje */
+
 
 
 
