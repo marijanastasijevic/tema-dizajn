@@ -16,6 +16,10 @@
     h3{
         font-size: 22px !important;
     }
+    .m-footer-responsive{
+        display: block !important;
+    }
+    
 }
 
 

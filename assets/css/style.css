@@ -97,7 +97,7 @@ h2{
 .m-contact-header{
     text-align: center;
     text-transform: uppercase;
-    font-family: "moj-font-bold";
+    font-family: "moj-font-italic";
     color: #523d32;
 }
 .text-message{
@@ -115,9 +115,9 @@ h2{
 .list-group-item{
     background-color: #523d32 !important;
     color: #f8f4f1;
-    font-size: 16px;
+    font-size: 14px;
 }
-h4{
+h6{
     color: #d28e5f;
     padding-left: 15px;
 }
@@ -125,6 +125,7 @@ h4{
     display: flex;
     justify-content: center;
 }
+
 
 
 
