@@ -138,17 +138,36 @@ h6{
 .transparent-header{
     margin-left: 20%;
     opacity: 0.6;
-    background-color: #ffffff;
+    background-color: #d2c1b5;
     width: 60%;
     margin-top: 100px;
     margin-bottom: 100px;
 }
 .transparent-header-color{
     padding-top: 100px;
-    padding-bottom: 150px;
     color: #000000;
     font-family: "moj-font-bold";
     text-transform: uppercase;
+}
+.scroll-arrow{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 100px;  
+}
+.m-button-arrow{
+    color: #000000;
+    padding-left: 20px;
+    padding-right: 20px; 
+    font-weight: 800 !important;
+    font-size: 30px !important;
+}
+.m-button-arrow:hover{
+    color: #ffffff;
+}
+.btn{
+    border: 3px solid #000000 !important;
+    border-radius: 0% !important;
 }
 
 
