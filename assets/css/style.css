@@ -78,7 +78,7 @@ h1{
     margin-top: 30px;
     margin-bottom: 30px;
 }
-.word-Tema-Dizajn{
+.Tema-Dizajn{
     font-family: "moj-font-italic";
     font-weight: 800;
     color: #d28e5f;
@@ -131,7 +131,7 @@ h6{
 .transparent-image{
     background-image: url(../img/srce_podmetac.JPG);
     background-size: cover;
-    width: 100%;  
+    width: 100%;
     opacity: 0.8;
     
 }
@@ -140,11 +140,11 @@ h6{
     opacity: 0.6;
     background-color: #d2c1b5;
     width: 60%;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 .transparent-header-color{
-    padding-top: 100px;
+    padding-top: 80px;
     color: #000000;
     font-family: "moj-font-bold";
     text-transform: uppercase;
@@ -152,8 +152,8 @@ h6{
 .scroll-arrow{
     display: flex;
     justify-content: center;
-    padding-top: 50px;
-    padding-bottom: 100px;  
+    padding-top: 40px;
+    padding-bottom: 80px;  
 }
 .m-button-arrow{
     color: #000000;
@@ -169,8 +169,30 @@ h6{
     border: 3px solid #000000 !important;
     border-radius: 0% !important;
 }
-
-
+#what_is{
+    margin: 50px auto;
+}
+.top-header{
+    padding-bottom: 30px;
+}
+.m-text-2{
+    text-align: justify;
+    font-size: 17px;
+}
+.m-text-2 p:last-child{
+    margin-bottom: 0px;
+}
+.m-img{
+    width: 100% !important;
+    height: 300px !important;
+}
+.color-pink{
+    color: #523d32;
+    font-family: "moj-font-italic";
+    font-weight: 800;
+    font-size: 20px;
+    text-decoration: underline;
+}
 
 
 

@@ -26,8 +26,20 @@
         padding-top: 20px;
         padding-bottom: 60px;
     }
-}
-
+    .m-img {
+        width: 100% !important;
+        height: 230px !important;
+    }
+    .m-text-2 {
+        font-size: 16px;
+    }
+    .Tema-Dizajn {
+        font-size: 22px;
+    }
+    .color-pink{
+        font-size: 19px;
+    }
+   
 
 
 /* ZA 426 I MANJE */
@@ -54,7 +66,7 @@
     .m-about-us{
         width: 90%;
     }
-    .word-Tema-Dizajn{
+    .Tema-Dizajn{
         font-size: 20px;
     }
     .m-submit-center{
@@ -85,6 +97,22 @@
         padding-top: 10px;
         padding-bottom: 40px;
     }
+    .m-text-2{
+        font-size: 15px;
+    }
+    #what_is {
+        margin: 30px auto;
+    }
+    .top-header {
+        padding-bottom: 15px;
+    }
+    .m-img {
+        padding-bottom: 15px;
+    }
+    .color-pink {
+        font-size: 17px;
+    }
+    
 }
 
 /* ZA 376 I MANJE */
@@ -111,4 +139,9 @@
     .btn{
         padding: 5px 8px !important;
     }
+    .m-img {
+        height: 210px !important;
+    }
+    
+    
 }
