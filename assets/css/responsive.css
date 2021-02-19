@@ -19,7 +19,13 @@
     .m-footer-responsive{
         display: block !important;
     }
-    
+    .transparent-header-color {
+        padding-top: 60px;
+    }
+    .scroll-arrow {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
 }
 
 
@@ -60,6 +66,25 @@
     .mobile-padding{
         padding-top: 15px;
     }
+    .transparent-header {
+        margin-left: 10%;
+        margin-top: 35px;
+        margin-bottom: 35px;
+        width: 80%;
+    }
+    .transparent-header-color {
+        padding-top: 40px;
+        font-size: 21px !important;
+    }
+    .m-button-arrow {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 22px !important;
+    }
+    .scroll-arrow {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
 }
 
 /* ZA 376 I MANJE */
@@ -74,5 +99,16 @@
     }
     h2{
         font-size: 20px !important;
+    }
+    .transparent-header-color {
+        padding-top: 30px;
+        font-size: 18px !important;
+    }
+    .scroll-arrow {
+        padding-top: 5px;
+        padding-bottom: 30px;
+    }
+    .btn{
+        padding: 5px 8px !important;
     }
 }
