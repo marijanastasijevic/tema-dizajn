@@ -193,6 +193,17 @@ h6{
     font-size: 20px;
     text-decoration: underline;
 }
+.description-header{
+    background-color: #d2c1b5 !important;
+    color: #523d32;
+    opacity: 0.7;
+    text-transform: uppercase;
+    
+
+}
+.description{
+    margin-top: -70px;
+}
 
 
 
