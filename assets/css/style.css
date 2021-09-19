@@ -1,0 +1,214 @@
+@font-face{
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-family: "moj-font-regular";
+}
+@font-face{
+    src: url(../font/LibreBaskerville-Italic.ttf);
+    font-family: "moj-font-italic";
+}
+@font-face{
+    src: url(../font/LibreBaskerville-Bold.ttf);
+    font-family: "moj-font-bold";
+}
+body{
+    font-family: "moj-font-regular" !important;
+}
+.bg-lavanda{
+    height: 35px;
+    background-color: #d2c1b5;
+}
+.logo-center{
+    display: flex;
+    justify-content: center;
+    padding: 10px auto;
+}
+.logo-center img{
+    width: 250px;
+}
+.bg-lavanda-m-nav{
+    background-color: #d2c1b5;
+    text-transform: uppercase;  
+    font-family: "moj-font-bold"; 
+}
+.m-nav-text a{
+    color: #000000;
+}
+.m-nav-text a:hover{
+    color: #523d32;
+}
+
+.transparent{
+    width: 100%;
+    height: 500px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.transparent img{
+    width: inherit;
+    height: inherit;  
+    opacity: 0.9;
+}
+.social-media{
+    text-align: right;
+}
+.social-media a i{
+    color: #000000;
+    font-size: 30px;
+    padding: 10px 15px;  
+}
+.social-media a i:hover{
+    color: #f8f4f1;
+}
+.m-about-us{
+    background-color: #f8f4f1;
+    border: 1px solid #d2c1b5;
+    position: relative;
+    margin-top: -80px;
+}
+h1{
+    font-family: "moj-font-italic";
+    font-weight: 800;
+    text-align: center;
+    color: #d28e5f;
+}
+.m-text{
+    font-style: italic;
+    text-align: justify;  
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Tema-Dizajn{
+    font-family: "moj-font-italic";
+    font-weight: 800;
+    color: #d28e5f;
+    font-size: 25px;
+}
+h2{
+    font-family: "moj-font-italic";
+    font-weight: 800;
+    text-align: center;
+    color: #d28e5f;
+
+}
+#kontakt{
+    background-color: #d2c1b5;
+    border-top: 1px solid #d2c1b5;
+}
+.m-contact-header{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "moj-font-italic";
+    color: #523d32;
+}
+.text-message{
+    text-align: center;
+}
+.flex-form{
+    display: flex;
+}
+.m-submit-center{
+    margin-left: 25%;
+}
+#footer{
+    background-color: #523d32;
+}
+.list-group-item{
+    background-color: #523d32 !important;
+    color: #f8f4f1;
+    font-size: 14px;
+}
+h6{
+    color: #d28e5f;
+    padding-left: 15px;
+}
+.img-flex{
+    display: flex;
+    justify-content: center;
+}
+
+/* Lasersko secenje */
+.transparent-image{
+    background-image: url(../img/srce_podmetac.JPG);
+    background-size: cover;
+    width: 100%;
+    opacity: 0.8;
+    
+}
+.transparent-header{
+    margin-left: 20%;
+    opacity: 0.6;
+    background-color: #d2c1b5;
+    width: 60%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.transparent-header-color{
+    padding-top: 80px;
+    color: #000000;
+    font-family: "moj-font-bold";
+    text-transform: uppercase;
+}
+.scroll-arrow{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 80px;  
+}
+.m-button-arrow{
+    color: #000000;
+    padding-left: 20px;
+    padding-right: 20px; 
+    font-weight: 800 !important;
+    font-size: 30px !important;
+}
+.m-button-arrow:hover{
+    color: #ffffff;
+}
+.btn{
+    border: 3px solid #000000 !important;
+    border-radius: 0% !important;
+}
+#what_is{
+    margin: 50px auto;
+}
+.top-header{
+    padding-bottom: 30px;
+}
+.m-text-2{
+    text-align: justify;
+    font-size: 17px;
+}
+.m-text-2 p:last-child{
+    margin-bottom: 0px;
+}
+.m-img{
+    width: 100% !important;
+    height: 300px !important;
+}
+.color-pink{
+    color: #523d32;
+    font-family: "moj-font-italic";
+    font-weight: 800;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.description-header{
+    background-color: #d2c1b5 !important;
+    color: #523d32;
+    opacity: 0.7;
+    text-transform: uppercase;
+    
+
+}
+.description{
+    margin-top: -70px;
+}
+
+
+
+/* End lasersko secenje */
+
+
+
+

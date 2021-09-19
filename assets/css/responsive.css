@@ -1,0 +1,147 @@
+/* ZA 769 I MANJE */
+
+@media screen and (max-width:769px){
+    h1{
+        font-size: 30px !important;
+    }
+    .m-text{
+        font-size: 16px;
+    }
+    .transparent{
+        height: 350px;
+    }
+    .m-about-us{
+        margin-top: -50px;
+    }
+    h3{
+        font-size: 22px !important;
+    }
+    .m-footer-responsive{
+        display: block !important;
+    }
+    .transparent-header-color {
+        padding-top: 60px;
+    }
+    .scroll-arrow {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+    .m-img {
+        width: 100% !important;
+        height: 230px !important;
+    }
+    .m-text-2 {
+        font-size: 16px;
+    }
+    .Tema-Dizajn {
+        font-size: 22px;
+    }
+    .color-pink{
+        font-size: 19px;
+    }
+   
+
+
+/* ZA 426 I MANJE */
+
+@media screen and (max-width:426px){
+    .bg-lavanda{
+        height: 20px;
+    }
+    .logo-center img{
+        width: 180px;
+    }
+    .transparent{
+        height: 250px;
+    }
+    h1{
+        font-size: 26px !important;
+    }
+    .m-text{
+        font-size: 14px;
+    }
+    h2{
+        font-size: 24px !important;
+    }
+    .m-about-us{
+        width: 90%;
+    }
+    .Tema-Dizajn{
+        font-size: 20px;
+    }
+    .m-submit-center{
+        margin-left: 0px
+    }
+    .mobile-block-form{
+        display: block;
+    }
+    .mobile-padding{
+        padding-top: 15px;
+    }
+    .transparent-header {
+        margin-left: 10%;
+        margin-top: 35px;
+        margin-bottom: 35px;
+        width: 80%;
+    }
+    .transparent-header-color {
+        padding-top: 40px;
+        font-size: 21px !important;
+    }
+    .m-button-arrow {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 22px !important;
+    }
+    .scroll-arrow {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+    .m-text-2{
+        font-size: 15px;
+    }
+    #what_is {
+        margin: 30px auto;
+    }
+    .top-header {
+        padding-bottom: 15px;
+    }
+    .m-img {
+        padding-bottom: 15px;
+    }
+    .color-pink {
+        font-size: 17px;
+    }
+    
+}
+
+/* ZA 376 I MANJE */
+@media screen and (max-width:346px){
+
+}
+
+/* ZA 321 I MANJE */
+@media screen and (max-width:321px){
+    h1{
+        font-size: 23px !important;
+    }
+    h2{
+        font-size: 20px !important;
+    }
+    .transparent-header-color {
+        padding-top: 30px;
+        font-size: 18px !important;
+    }
+    .scroll-arrow {
+        padding-top: 5px;
+        padding-bottom: 30px;
+    }
+    .btn{
+        padding: 5px 8px !important;
+    }
+    .m-img {
+        height: 210px !important;
+    }
+    
+    
+}
